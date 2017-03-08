@@ -1,8 +1,8 @@
 # Erste Übung
 
 ![GIT](logo.jpg)
-GIT
 
+ GIT
 
 
 1. Git Gui öffnen 
