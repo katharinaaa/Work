@@ -21,9 +21,10 @@
 1. auf Server neuen Projekt starten, dabei Repository name wählen: zum beispiel WORK - dann OK - schließlich Adresse kopieren
 1. in Git - Remote - dann Name der neuen Repository eingeben - Location den Pfad einfügen - Add
 1. Bild einfügen
-  *dafür ein Bild in Ordner speichern
-  *dieses dann mit folgenden Syntax einfügen ! [Bezeichnung] dann (Bildname) - alles ohne Leerzeichen
-  *oder Link dazu mit nur der gesamten Adresse in der Klammer
+  * dafür ein Bild in Ordner speichen
+  * dieses dann mit folgenden Syntax bezeichnen ! [Bildname] (Bildname mit jpg) keine Leerzeichen
+  * oder Link dazu mit nur der gesamten Adresse in der Klammer
+  
   
   
 
