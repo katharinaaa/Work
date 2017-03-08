@@ -1,5 +1,10 @@
 # Erste Übung
+
 ![GIT](logo.jpg)
+GIT
+
+
+
 1. Git Gui öffnen 
   * Create New Repository wählen
   * in Browser Ordner anlegen - Ordner auswählen - Create
