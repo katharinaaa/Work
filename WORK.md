@@ -1,4 +1,4 @@
-# erste Schritte
+# Erste Übung
 
 1. Git Gui öffnen 
   * Create New Repository wählen
@@ -13,7 +13,9 @@
   * Push - Änderungen werden auf Server geladen (Server bereits angelegt)
 1. grün sind alle hinzugefügten Änderungen
 1. rot sind alle die entfernt werden
-1. 
+1. auf Server neuen Projekt starten, dabei Repository name wählen: zum beispiel WORK - dann OK - schließlich Adresse kopieren
+1. in Git - Remote - dann Name der neuen Repository eingeben - Location den Pfad einfügen - Add
+1. Bild einfügen
 
 
 
